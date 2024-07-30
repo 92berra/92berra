@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Berra. 👋
 
-<!--
-**92berra/92berra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align='center'>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F92berra%2Fhit-counter&count_bg=%23FF0505&title_bg=%23000000&icon=git.svg&icon_color=%23E7E7E7&title=VISITORS&edge_flat=true)](https://hits.seeyoufarm.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br/>
+
+<li><a href='92berra.github.io'>Portfolio</a></li>
+<li><a href='berra.tistory.com'>Devlog</a></li>
+<li><a href='instagram.com/berrasnote'>Instagram</a></li>
+
+<br/>
+
+<div align='center'>
+Berra Oh ⓒ 2024 
+</div>
+
+
+
+
+  
