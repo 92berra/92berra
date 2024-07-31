@@ -10,7 +10,17 @@
 
 <br/>
 
-### 🔎 Let's take a look at what I'm studying
+### 🛠️ Currently
+
+1. Preparing certificates to study related with Computer Science in depth.
+2. Preparing portfolio completed version to keep interest with coding.
+3. Part-time job for 3hours on weekdays, 5hours on weekend to make money. ~I wanna join the company to make a lot of money, not the part-time job. 😭~
+4. [Writing retrospect](https://berra.tistory.com/category/Retrospect) - Daily, Weekly, Monthly
+5. [Reviewing interested papers or books](https://berra.tistory.com/category/Reviews)
+
+<br/>
+
+### 🔎 Detailed 
 
 #### [GANs Tutorial](https://github.com/92berra/GANs-Tutorial)
 - There are many open source PyTorch tutorials using GPU(CUDA, NVIDIA). However, there are not many tutorials for Macbook users, so I am making my own tutorial using mps(Mac GPU). This is an opportunity to learn about the MacOS and I hope many users will use it.
@@ -26,17 +36,13 @@ To study in depth, write code and check the result.
 
 <br/>
 
-### 🛠️ Currently
+<div align='center'>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohyunhwa)](https://solved.ac/ohyunhwa/)
 
-1. Preparing certificates to study related with Computer Science in depth.
-2. Preparing portfolio completed version to keep interest with coding.
-3. Part-time job for 3hours on weekdays, 5hours on weekend to make money. ~I wanna join the company to make a lot of money, not the part-time job. 😭~
-4. [Writing retrospect](https://berra.tistory.com/category/Retrospect) - Daily, Weekly, Monthly
-5. [Reviewing interested papers or books](https://berra.tistory.com/category/Reviews)
-
-<br/>
+</div>
 
 <div align='center'>
-Thank you for visiting. ✨ <br/>
-⬅ Feel free to contact me refer to the link on the left of my profile. 😍
+✨ Thank you for visiting. ✨ <br/>
+💌 Feel free to contact me!
 </div>
