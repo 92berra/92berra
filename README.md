@@ -20,7 +20,7 @@
 
 <br/>
 
-### 🔎 Detailed 
+### 🔎 Detailed what I'm studying currently
 
 #### [GANs Tutorial](https://github.com/92berra/GANs-Tutorial)
 - There are many open source PyTorch tutorials using GPU(CUDA, NVIDIA). However, there are not many tutorials for Macbook users, so I am making my own tutorial using mps(Mac GPU). This is an opportunity to learn about the MacOS and I hope many users will use it.
@@ -35,13 +35,6 @@ To study in depth, write code and check the result.
 - Commands : [Apple Scripts](https://github.com/92berra/Selfstudy/tree/main/apple-script), [UNIX](https://github.com/92berra/Selfstudy/tree/main/commands)
 
 <br/>
-
-<div align='center'>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohyunhwa)](https://solved.ac/ohyunhwa/)
-
-</div>
-
 <br/>
 <br/>
 
