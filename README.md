@@ -30,7 +30,7 @@ To study in depth, write code on my hand and check the result.
 
 1. Preparing certificates to study related with Computer Science in depth.
 2. Preparing portfolio completed version to keep interest with coding.
-3. Part-time job 3hours in weekdays, 5hours in weekend to make money. ~I wanna join the company to make a lot of money, not the part-time job. 😭~
+3. Part-time job for 3hours on weekdays, 5hours on weekend to make money. ~I wanna join the company to make a lot of money, not the part-time job. 😭~
 4. [Writing retrospect](https://berra.tistory.com/category/Retrospect) - daily, weekly, monthly
 5. [Reviewing interested papers or books](https://berra.tistory.com/category/Reviews)
 
