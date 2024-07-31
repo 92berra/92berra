@@ -31,7 +31,7 @@
 
 - Preparing certificates to study related with Computer Science in depth.
 - Preparing portfolio completed version to keep interest with coding.
-- Part-time job 3hours in weekdays, 5hours in weekend to make a little money. <br/> ~I wanna join the company to make a lot of money, not the part-time job. 😭~
+- Part-time job 3hours in weekdays, 5hours in weekend to make a little money. ~I wanna join the company to make a lot of money, not the part-time job. 😭~
 - [Writing retrospect](https://berra.tistory.com/category/Retrospect) - daily, weekly, monthly
 - [Reviewing interested papers or books](https://berra.tistory.com/category/Reviews)
 
