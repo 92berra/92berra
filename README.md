@@ -19,7 +19,7 @@
 - I continued my research on the Korean Font Generation Model that I was working on in my lab during my graduate student. Nowadays, the accuracy of the Korean Font Generation Model is relatively high, but it has reached its limit. To solve this, I tried to modify the datasets, and finally I was able to achieve higher accuracy. Currently, I am modifying the model for general-purpose code(using mps, from tensorflow 1.13 to pytorch 2.16).
 
 #### [Selfstudy](https://github.com/92berra/Selfstudy)
-To study in depth, write code on my hand and check the result. 
+To study in depth, write code and check the result. 
 - Programming Languages : [C](https://github.com/92berra/Selfstudy/tree/main/c), [Java](https://github.com/92berra/Selfstudy/tree/main/java), [Python](https://github.com/92berra/Selfstudy/tree/main/baekjoon)
 - Frameworks : [Tensorflow](https://github.com/92berra/Selfstudy/tree/main/tensorflow), [PyTorch](https://github.com/92berra/Selfstudy/tree/main/pytorch)
 - Commands : [Apple Scripts](https://github.com/92berra/Selfstudy/tree/main/apple-script), [UNIX](https://github.com/92berra/Selfstudy/tree/main/commands)
@@ -31,7 +31,7 @@ To study in depth, write code on my hand and check the result.
 1. Preparing certificates to study related with Computer Science in depth.
 2. Preparing portfolio completed version to keep interest with coding.
 3. Part-time job for 3hours on weekdays, 5hours on weekend to make money. ~I wanna join the company to make a lot of money, not the part-time job. 😭~
-4. [Writing retrospect](https://berra.tistory.com/category/Retrospect) - daily, weekly, monthly
+4. [Writing retrospect](https://berra.tistory.com/category/Retrospect) - Daily, Weekly, Monthly
 5. [Reviewing interested papers or books](https://berra.tistory.com/category/Reviews)
 
 <br/>
