@@ -42,7 +42,14 @@ To study in depth, write code and check the result.
 
 </div>
 
+<br/>
+<br/>
+
 <div align='center'>
 ✨ Thank you for visiting. ✨ <br/>
-💌 Feel free to contact me!
+💌 Feel free to contact me! 💌 
 </div>
+
+<br/>
+
+Copyright 92berra ⓒ 2024
