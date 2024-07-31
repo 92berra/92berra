@@ -1,7 +1,6 @@
 # Hi there, I'm Berra. 👋
 
 <br/>
-<br/>
 
 <div align='center'>
   
@@ -35,7 +34,6 @@
 - [Writing retrospect](https://berra.tistory.com/category/Retrospect) - daily, weekly, monthly
 - [Reviewing interested papers or books](https://berra.tistory.com/category/Reviews)
 
-<br/>
 <br/>
 
 <div align='center'>
