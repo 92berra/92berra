@@ -33,7 +33,7 @@
 - Preparing portfolio completed version.
 - Doing part-time job 3hours in weekdays, 5hours in weekend.
 - [Writing retrospect](https://berra.tistory.com/category/Retrospect) - daily, weekly, monthly
-- [Reviewing interested papaer](https://berra.tistory.com/category/Reviews)
+- [Reviewing interested papers or books](https://berra.tistory.com/category/Reviews)
 
 <br/>
 <br/>
