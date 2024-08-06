@@ -10,7 +10,7 @@
 
 <br/>
 
-### 🛠️ Currently
+### 🌱 Currently
 
 1. Preparing certificates to study related with Computer Science in depth.
 2. Preparing portfolio completed version to keep interest with coding.
