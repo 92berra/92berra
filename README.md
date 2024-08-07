@@ -17,7 +17,7 @@
 
 <br/>
 
-### 🔎 Detailed what I'm studying currently
+### 👩🏻‍💻 Detailed what I'm studying currently
 
 #### [GANs Tutorial](https://github.com/92berra/GANs-Tutorial)
 - There are many open source PyTorch tutorials using GPU(CUDA, NVIDIA). However, there are not many tutorials for Macbook users, so I am making my own tutorial using mps(Mac GPU). This is an opportunity to learn about the MacOS and I hope many users will use it.
