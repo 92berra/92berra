@@ -8,6 +8,8 @@
 
 </div>
 
+<br/>
+
 <div>
 
   ### 🙋🏻‍♀️ Career Focus
@@ -19,37 +21,50 @@
 
   ### 👩🏻‍🎓 Educational Background
 
-  - Master's Degree in Computer Science and Engineering
-  - Bachelor's Degree in Computer Engineering
+  - Master's Degree in Computer Science and Engineering (Jun 2021 ~ Feb 2024)
+  - Bachelor's Degree in Computer Engineering (Mar 2011 ~ Feb 2015)
 
   <br/>
 
   ### 👩🏻‍💼 Professional Experiences
 
-  - Associate Software Engineer
-  - IT Solution Sales Representative
-  - Intel Korea Project Assistant
-  - HANCOM S/W Technical Support Engineer
+  - Associate Software Engineer (Sept 2024 ~ Currently)
+  - IT Solution Sales Representative (Jan 2018 ~ Jun 2020)
+  - Intel Korea Project Assistant (Sept 2016 ~ Nov 2016)
+  - HANCOM Technical Support Engineer (Jul 2015 ~ Oct 2015)
  
   <br/>
 
   ### 👩🏻‍💻 Qualifications and Certificates
 
-  - SQLD
-  - Neural Networks and Deep Learning
-  - Secretarial Administrator Level-Ⅰ
-  - Word Processor Specialist 
-  - Driver License
-  - MOS Powerpoint 2007
-  - MOS Excel 2007 Expert
+  - SQLD, Korea Data Agency, Sept 2024
+  - Neural Networks and Deep Learning, COURSERA, Jan 2022
+  - Secretarial Administrator Level-Ⅰ, Korea Chamber of Commerce and Industry, May 2019
+  - Word Processor Specialist, Korea Chamber of Commerce and Industry, May 2015
+  - Driver License, Seoul Metropolitan Police Agency, May 2015
+  - MOS Powerpoint 2007, Microsoft, Dec 2013
+  - MOS Excel 2007 Expert, Microsoft, Oct 2013
 
   <br/>
 
-  ### 🙇🏻‍♀️ SNS
+  ### 💌 SNS
 
   - <a href='berra.tistory.com'>Blog</a>
   - <a href='instagram.com/hyunhwazz'>Instagram</a>
     
+</div>
+
+<div align='center'>
+
+  <br/>
+  
+Thank you for visiting my github. <br/>
+Feel free to contact me. 😍
+
+  <br/>
+
+  Copyright 2024. 92berra All Rights Reserved.
+  
 </div>
 
 <!--
