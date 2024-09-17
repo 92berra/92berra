@@ -28,22 +28,23 @@
 
   ### 👩🏻‍💼 Professional Experiences
 
-  - Associate Software Engineer (Sept 2024 ~ Currently)
-  - IT Solution Sales Representative (Jan 2018 ~ Jun 2020)
-  - Intel Korea Project Assistant (Sept 2016 ~ Nov 2016)
-  - HANCOM Technical Support Engineer (Jul 2015 ~ Oct 2015)
+  - <b>Associate Software Engineer</b> (Sept 2024 ~ Currently)
+  - <b>IT Solution Sales Representative</b> (Jan 2018 ~ Jun 2020)
+  - <b>Project Assistant</b>, Intel Korea (Sept 2016 ~ Nov 2016)
+  - <b>Technical Support Engineer</b>, Hancom (Jul 2015 ~ Oct 2015)
  
   <br/>
 
   ### 👩🏻‍💻 Qualifications and Certificates
 
-  - SQLD, Korea Data Agency, Sept 2024
-  - Neural Networks and Deep Learning, COURSERA, Jan 2022
-  - Secretarial Administrator Level-Ⅰ, Korea Chamber of Commerce and Industry, May 2019
-  - Word Processor Specialist, Korea Chamber of Commerce and Industry, May 2015
-  - Driver License, Seoul Metropolitan Police Agency, May 2015
-  - MOS Powerpoint 2007, Microsoft, Dec 2013
-  - MOS Excel 2007 Expert, Microsoft, Oct 2013
+  - <b>SQLD</b>, Korea Data Agency, Sept 2024
+  - <b>Neural Networks and Deep Learning</b>, Coursera, Jan 2022
+  - <b>Secretarial Administrator Level-Ⅰ</b>, Korea Chamber of Commerce and Industry, May 2019
+  - <b>Android Application Developer Class Trainee</b>, Samsung Multi Campus, Dec 2015 ~ Jun 2016
+  - <b>Word Processor Specialist</b>, Korea Chamber of Commerce and Industry, May 2015
+  - <b>Driver License</b>, Seoul Metropolitan Police Agency, May 2015
+  - <b>MOS Powerpoint 2007</b>, Microsoft, Dec 2013
+  - <b>MOS Excel 2007 Expert</b>, Microsoft, Oct 2013
 
   <br/>
 
