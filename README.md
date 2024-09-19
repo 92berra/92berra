@@ -46,13 +46,6 @@
   - <b>MOS Powerpoint 2007</b>, Microsoft, Dec 2013
   - <b>MOS Excel 2007 Expert</b>, Microsoft, Oct 2013
 
-  <br/>
-
-  ### 💌 SNS
-
-  - <a href='berra.tistory.com'>Blog</a>
-  - <a href='instagram.com/hyunhwazz'>Instagram</a>
-    
 </div>
 
 <div align='center'>
