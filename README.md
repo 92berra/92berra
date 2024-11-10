@@ -12,24 +12,24 @@
 
   ### 🙋🏻‍♀️ Career Focus
 
-  - Knowledgeable software engineer with a Bachelor’s and Master’s degree in Computer Science and Engineering. (6 years)
-  - Communication expert with professional sales representative experience. (3 years)
+  - Knowledgeable software engineer with a Bachelor’s and Master’s degree in Computer Science and Engineering for 6 years
+  - Communication expert with professional sales representative experience for 3 years
 
   <br/>
 
   ### 👩🏻‍🎓 Educational Background
 
-  - Master's Degree in Computer Science and Engineering (Jun 2021 ~ Feb 2024)
-  - Bachelor's Degree in Computer Engineering (Mar 2011 ~ Feb 2015)
+  - Master's Degree in Computer Science and Engineering, Jun 2021 ~ Feb 2024
+  - Bachelor's Degree in Computer Engineering, Mar 2011 ~ Feb 2015
 
   <br/>
 
   ### 👩🏻‍💼 Professional Experiences
 
-  - <b>Associate Engineer</b> (Sept 2024 ~ Currently)
-  - <b>IT Solution Sales Representative</b> (Jan 2018 ~ Jun 2020)
-  - <b>Project Assistant</b> (Sept 2016 ~ Nov 2016)
-  - <b>Technical Support Engineer</b> (Jul 2015 ~ Oct 2015)
+  - <b>Associate Engineer</b>, Sept 2024 ~ Currently
+  - <b>IT Solution Sales Representative</b>, Jan 2018 ~ Jun 2020
+  - <b>Project Assistant</b>, Sept 2016 ~ Nov 2016
+  - <b>Technical Support Engineer</b>, Jul 2015 ~ Oct 2015
  
   <br/>
 
