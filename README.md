@@ -26,7 +26,7 @@
 
   ### 👩🏻‍💼 Professional Experiences
 
-  - <b>Associate Engineer</b>, Sept 2024 ~ Currently
+  - <b>Associate Engineer</b>, Sept 2024 ~ Dec 2024
   - <b>IT Solution Sales Representative</b>, Jan 2018 ~ Jun 2020
   - <b>Project Assistant</b>, Sept 2016 ~ Nov 2016
   - <b>Technical Support Engineer</b>, Jul 2015 ~ Oct 2015
