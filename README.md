@@ -12,8 +12,8 @@
 
   ### 🙋🏻‍♀️ Career Focus
 
-  - Knowledgeable software engineer with a Bachelor’s and Master’s degree in Computer Science and Engineering for 6 years
-  - Communication expert with professional sales representative experience for 3 years
+  - Knowledgeable software engineer with a Bachelor’s and Master’s degree in Computer Science and Engineering for 6years
+  - Communication expert with professional sales representative experience for 3years
 
   <br/>
 
