@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFB2F5&width=100%&height=180&text=HyunHwa%20Oh&fontColor=5D5D5D)<br/>
+![header](https://capsule-render.vercel.app/api?type=wave&color=D1B2FF&width=100%&height=180&text=HyunHwa%20Oh&fontColor=5D5D5D)<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F92berra%2Fhit-counter&count_bg=%23A0A0A0&title_bg=%23000000&icon=git.svg&icon_color=%23FFFFFF&title=VISITED&edge_flat=false)](https://hits.seeyoufarm.com)
 
