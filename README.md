@@ -55,7 +55,7 @@ Feel free to contact me. 😍
 
   <br/>
 
-  Copyright 2024. 92berra All Rights Reserved.
+  Copyright 2024. Hyunhwa All Rights Reserved.
   
 </div>
 
